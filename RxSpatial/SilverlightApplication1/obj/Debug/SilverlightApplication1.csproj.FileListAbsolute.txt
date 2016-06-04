@@ -1,0 +1,2 @@
+C:\RxSpatial\RxSpatial\SilverlightApplication1\obj\Debug\SilverlightApplication1.csprojResolveAssemblyReference.cache
+C:\RxSpatial\RxSpatial\SilverlightApplication1\obj\Debug\App.g.cs

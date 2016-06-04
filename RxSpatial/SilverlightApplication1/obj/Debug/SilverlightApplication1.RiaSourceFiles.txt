@@ -1,0 +1,1 @@
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\SilverlightApplication1.Web.csproj,635537553454740695,Properties\AssemblyInfo.cs,

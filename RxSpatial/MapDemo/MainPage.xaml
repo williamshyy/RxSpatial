@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="MapDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MapDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:bm="using:Bing.Maps"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <bm:Map Credentials="AhEnoWJzfkrGdizDpD9l1EheuZBlhoJO7d_yfU-OxLNPKcKq5lBBr6cDJJ-BGw29" x:Name="mainMap"></bm:Map>
+
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Top" Orientation="Horizontal" Background="Gray">
+            <Button Margin="5" Width="100" Height="50" Click="Road_Click">
+                <TextBlock>simulation</TextBlock>
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</Page>

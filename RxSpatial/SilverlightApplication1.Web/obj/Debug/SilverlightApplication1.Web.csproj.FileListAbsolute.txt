@@ -1,0 +1,10 @@
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\bin\Microsoft.Maps.MapControl.Common.dll
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\bin\Microsoft.Maps.MapControl.dll
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\bin\Microsoft.Maps.MapControl.xml
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\bin\Microsoft.Maps.MapControl.Common.xml
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.csprojResolveAssemblyReference.cache
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\RxSpatial\RxSpatial\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb

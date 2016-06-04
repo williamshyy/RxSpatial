@@ -1,0 +1,6 @@
+C:\RxSpatial\RxSpatial\Mapper\bin\Debug\Mapper.exe.config
+C:\RxSpatial\RxSpatial\Mapper\bin\Debug\Mapper.exe
+C:\RxSpatial\RxSpatial\Mapper\bin\Debug\Mapper.pdb
+C:\RxSpatial\RxSpatial\Mapper\obj\Debug\Mapper.csprojResolveAssemblyReference.cache
+C:\RxSpatial\RxSpatial\Mapper\obj\Debug\Mapper.exe
+C:\RxSpatial\RxSpatial\Mapper\obj\Debug\Mapper.pdb
