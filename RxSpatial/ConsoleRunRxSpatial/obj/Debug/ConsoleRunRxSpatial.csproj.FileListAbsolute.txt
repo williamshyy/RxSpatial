@@ -1,8 +1,0 @@
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\bin\Debug\ConsoleRunRxSpatial.exe.config
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\bin\Debug\ConsoleRunRxSpatial.exe
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\bin\Debug\ConsoleRunRxSpatial.pdb
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\bin\Debug\RxSpatial.dll
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\bin\Debug\RxSpatial.pdb
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\obj\Debug\ConsoleRunRxSpatial.csprojResolveAssemblyReference.cache
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\obj\Debug\ConsoleRunRxSpatial.exe
-C:\RxSpatial\RxSpatial\ConsoleRunRxSpatial\obj\Debug\ConsoleRunRxSpatial.pdb

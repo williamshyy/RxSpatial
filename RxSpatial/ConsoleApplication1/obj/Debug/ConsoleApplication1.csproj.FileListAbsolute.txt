@@ -1,6 +1,0 @@
-C:\RxSpatial\RxSpatial\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\RxSpatial\RxSpatial\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\RxSpatial\RxSpatial\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\RxSpatial\RxSpatial\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\RxSpatial\RxSpatial\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\RxSpatial\RxSpatial\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

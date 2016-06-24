@@ -1,5 +1,0 @@
-C:\RxSpatial\RxSpatial\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
-C:\RxSpatial\RxSpatial\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-C:\RxSpatial\RxSpatial\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
-C:\RxSpatial\RxSpatial\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
-C:\RxSpatial\RxSpatial\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

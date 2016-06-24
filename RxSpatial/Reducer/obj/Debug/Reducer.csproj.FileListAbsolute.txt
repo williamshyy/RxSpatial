@@ -1,5 +1,0 @@
-C:\RxSpatial\RxSpatial\Reducer\bin\Debug\Reducer.exe.config
-C:\RxSpatial\RxSpatial\Reducer\bin\Debug\Reducer.exe
-C:\RxSpatial\RxSpatial\Reducer\bin\Debug\Reducer.pdb
-C:\RxSpatial\RxSpatial\Reducer\obj\Debug\Reducer.exe
-C:\RxSpatial\RxSpatial\Reducer\obj\Debug\Reducer.pdb
