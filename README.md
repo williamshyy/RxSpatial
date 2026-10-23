@@ -4,3 +4,6 @@ The spatial libraries that have been developed by Microsoft, IBM and Oracle have
 �         Abdeltawab M. Hendawi, Youying Shi, Hossam Fattah, Jumana Karwa, Mohamed H. Ali. RxSpatial: a framework for real-time spatio-temporal operations. In ACM DEBS 2016, 366-367
 
 �         Youying Shi, Abdeltawab M. Hendawi, Hossam Fattah, Mohamed H. Ali. RxSpatial: Reactive Spatial Library for Real-Time Location Tracking and Processing. In ACM SIGMOD 2016, 2165-2168
+
+# License
+The RxSpatial library and sample applications in [`RxSpatial/`](RxSpatial) are released under the [MIT License](RxSpatial/LICENSE). The [`RTree/`](RTree) and [`RUMTree/`](RUMTree) sources are licensed separately under the GNU LGPL v2.1 (see their `LICENSE.txt` files).
