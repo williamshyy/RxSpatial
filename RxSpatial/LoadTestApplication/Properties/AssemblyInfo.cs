@@ -1,4 +1,8 @@
-﻿using System.Reflection;
+﻿// Copyright (c) The RxSpatial Authors and Contributors. All rights reserved.
+// Licensed under the MIT License.
+// See the LICENSE file in the project root for more information.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
